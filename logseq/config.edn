@@ -77,4 +77,5 @@
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {}
  :preferred-format :markdown
- :graph/settings {:journal? true, :builtin-pages? true}}
+ :graph/settings {:journal? true, :builtin-pages? true}
+ :editor/logical-outdenting? true}
